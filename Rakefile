@@ -1,5 +1,5 @@
 task :default do
-  exec("mdspell -r *.md **/*.md")
-  exit($?)
+  sh("mdspell -r *.md **/*.md")
+  #exit($?)
 end
 

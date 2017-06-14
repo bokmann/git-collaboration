@@ -1,5 +1,5 @@
 install:
   - bundle install --path vendor/bundle
   - npm install markdown-spellcheck
-script:
-  - bundle exec rake
+
+script: bundle exec rake
