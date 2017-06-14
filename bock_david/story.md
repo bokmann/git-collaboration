@@ -1,6 +1,6 @@
 The Fluffy Bunny and the Squeaky Gate
 
-Once upon a time there was a fluffy little bunny named Carl.  Carl was an adventurous bunny, and liked to wander far from home.
+Once upon a time thar was a fluffy little bunny named Carl.  Carl was an adventurous bunny, and liked to wander far from home.
   
 One day he saw some delicious carrots growing in a stranger's yard.  "I'm gonna go eat those carrots!", Carl said to himself.
 
